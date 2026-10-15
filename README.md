@@ -29,5 +29,5 @@ python Simple_calculator_version_1.py
 - Python 3
 
 ## Project Status
-Version 1.0 — Initial release.
+Version 1.0 - Initial release.
 
