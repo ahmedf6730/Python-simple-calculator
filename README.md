@@ -5,7 +5,7 @@ A simple calculator built with Python as my first personal programming project.
 ## About the Project
 This project is a command-line calculator developed to practice Python programming fundamentals.
 
-## Features — Version 1.0
+## Features - Version 1.0
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
